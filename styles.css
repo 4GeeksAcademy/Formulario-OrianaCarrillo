@@ -1,0 +1,19 @@
+.container{
+    margin: 80px 80px 80px 80px;
+}
+
+.card-body{
+    padding: 15px 15px;
+}
+.form-check{
+  background-color: rgb(42, 34, 34);
+  justify-content: space-between;
+  width: 70px;
+  height: 30px;
+  margin: 0;
+  border-radius: 2px;
+}
+
+.container-footer{
+    text-align: right;
+}
